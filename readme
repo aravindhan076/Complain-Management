@@ -1,0 +1,11 @@
+Complaint Management System:
+Project Overview
+The Complaint Management System is a console-level project developed in Python. This system allows users to register complaints, track their status, and manage responses efficiently.
+
+Features
+User Registration: Users can register to log complaints.
+Complaint Submission: Users can submit complaints with details.
+Status Tracking: Users can check the status of their submitted complaints.
+Admin Management: Admin can view, update, and resolve complaints.
+Technologies Used
+Python: For developing the console application.
